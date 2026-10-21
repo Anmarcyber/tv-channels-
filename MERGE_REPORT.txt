@@ -1,0 +1,113 @@
+الإدخالات المقروءة: 40881 (M3U: 2945 + JSON: 37936)
+روابط مكررة حرفيا حُذفت: 224  | روابط فارغة: 0
+الروابط الناتجة: 40657  => 40881=40657+224+0 ? True
+قنوات مباشرة: 8306 قناة / 22939 رابط | Video Club: 10749 عنصر / 17457 رابط | Adult: 252 / 261
+قنوات بلا شعار صحيح: 2956
+
+== أقسام البث المباشر (قنوات / روابط) ==
+France: 1285 / 2714
+Arabic General | عربي عام: 713 / 2299
+UK: 451 / 570
+سوريا: 435 / 1277
+Canada: 362 / 962
+السعودية: 353 / 1251
+قطر: 324 / 1353
+العراق: 318 / 1268
+مصر: 311 / 1298
+Religious | دينية: 281 / 619
+USA: 276 / 360
+India: 262 / 300
+Spain: 204 / 240
+Kids | أطفال: 193 / 738
+Turkey: 185 / 267
+News | أخبار: 157 / 330
+Sports | رياضة: 153 / 751
+الإمارات: 141 / 465
+Germany: 139 / 149
+Netherlands: 136 / 150
+Movies | أفلام: 132 / 537
+لبنان: 129 / 568
+Series | مسلسلات: 128 / 596
+Disney: 117 / 515
+Italy: 109 / 116
+الجزائر: 96 / 309
+المغرب: 94 / 346
+ليبيا: 88 / 199
+تونس: 85 / 359
+الكويت: 83 / 280
+Romania: 75 / 80
+الأردن: 70 / 343
+فلسطين: 66 / 254
+Music | موسيقى: 52 / 103
+اليمن: 45 / 151
+Documentary | وثائقية: 43 / 192
+Other | قنوات أخرى: 35 / 36
+عمان: 32 / 84
+HBO: 30 / 125
+السودان: 28 / 112
+البحرين: 26 / 56
+Entertainment | منوعات: 22 / 86
+Netflix: 15 / 50
+الصومال: 14 / 32
+موريتانيا: 10 / 46
+جيبوتي: 2 / 2
+الصحراء الغربية: 1 / 1
+
+== أقسام Video Club ==
+أفلام أجنبية: 3761
+أفلام ومسلسلات أخرى: 1728
+برامج وأعمال أصلية: 1636
+أغاني وحفلات: 497
+أفلام عربية: 488
+أكشن: 447
+رعب: 335
+دراما: 331
+آسيوي: 287
+كلاسيك أبيض وأسود: 236
+كوميدي: 228
+Netflix: 198
+جريمة: 161
+خيال علمي: 161
+رومانسي: 119
+WWE ومصارعة: 95
+أطفال وكرتون: 21
+مسرحيات: 15
+أضيف حديثاً: 5
+
+== أمثلة قنوات "Other" غير مصنّفة (50) ==
+Thikrayat TV |  | List1.m3u
+Al Ekhbariya |  | List1.m3u
+Sad TV |  | List1.m3u
+Al Khalij |  | List1.m3u
+Mawada TV |  | List1.m3u
+Alwaqe Tv |  | List1.m3u
+Al Aan TV |  | List1.m3u
+3eesh Al Aan TV |  | List1.m3u
+Al Dhafra TV |  | List1.m3u
+AlWousta TV |  | List1.m3u
+Emarat TV |  | List1.m3u
+Majid TV |  | List1.m3u
+Peace TV English | Religious | List1.m3u
+Al Istiqama TV |  | List1.m3u
+Tanasuh |  | List1.m3u
+Jamahiria TV |  | List1.m3u
+Al Maghribia |  | List1.m3u
+Assadissa |  | List1.m3u
+Athaqafia |  | List1.m3u
+M24 TV |  | List1.m3u
+Halab Today TV |  | List1.m3u
+Amman TV |  | List1.m3u
+Ro'ya TV |  | List1.m3u
+Jasco Events TV |  | List1.m3u
+Kaifa TV |  | List1.m3u
+Ajyal TV |  | List1.m3u
+Alfajer Tv HD 1 |  | List1.m3u
+Alfajer Tv HD 2 |  | List1.m3u
+Musawa Channel |  | List1.m3u
+al quds tv |  | List1.m3u
+Al etejah TV |  | List1.m3u
+Al Rafidain |  | List1.m3u
+Al Rafidain HQ |  | List1.m3u
+Kurd Channel |  | List1.m3u
+Kurdsat |  | List1.m3u
+Elahmad coM |  | List1.m3u
